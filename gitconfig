@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = harsh.gambani@insead.edu
+	name = Harsh Gambani
